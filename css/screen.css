@@ -137,8 +137,8 @@ ul li a:hover{
 }
 
 .content .cn{
-    width: 160px;
-    height: 40px;
+    width: 10rem;
+    height: 2.5rem;
     background: #ff7200;
     border: none;
     margin-bottom: 10px;
