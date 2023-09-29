@@ -17,7 +17,7 @@ Par simple analyse écrite, minimum une page. Détaillez les points forts et fai
 >**Ligne 12** : balise inutile car nous avons qu'un seul élément à l'interieur\
 >**Ligne 13** : balise "h2" soit être remplacé par une balise "img" car il selon sa class il intégrera un logo qui doit être placer dans une balise "img"\
 >**Ligne 16** : la balise "div" doit être remplacer par une balise "nav" car c'est un menu de navigation qui est placé à l'interieur\
->**Ligne 26** : balise div est inutile on peut donner la class "search" directement à l'input.\
+>**Ligne 26** : balise div a remplacer par une balise "form".\
 >**Ligne 27** : le "name" n'est pas renseigné\
 >**Ligne 28, 38 et 44** : On ne doit pas utiliser une balise "button" car un button ne peut pas contenir ou ne peut pas être positionné dans une balise "a", on doit donc utiliser seulement une balise "a" en lui attribuant la class "button" par exemple\
 >**Ligne 32** : balise "div" peut être remplacé par une balise "section" car le contenue interieur est une section de la page\
